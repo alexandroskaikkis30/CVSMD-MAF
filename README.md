@@ -7,4 +7,4 @@ This study explores the non-equilibrium mecahnical unfolding of villin headpiece
 Several constant-velocity steered molecular dynamics (CV-SMD) simulations were performed at different pulling velocities. Analysis of the resulting force–extension profiles revealed noise associated with the sampling of similar conformations throughout the trajectories, while fewer samples were observed during unfolding events. These unfolding events correspond primarily to the disruption of secondary structure elements (α-helices) within the villin headpiece. 
 <img width="1311" height="698" alt="image" src="https://github.com/user-attachments/assets/fa0a26e2-b5d1-48bc-83fd-2fcb5f349c0a" />
 
-To better capture and generate such rare conformational states, a conditional normalising flow model was employed, specifically a Conditional Masked Autoregressive Flow (MAF).
+To better capture and generate such rare conformational states, different architectures of conditional normalising flow models were employed, specifically variants of the Conditional Masked Autoregressive Flow (MAF).
