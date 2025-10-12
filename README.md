@@ -19,6 +19,7 @@ Main dependencies:
 - torchmd==1.0.2  
 - moleculekit==1.3.4  
 - numpy==1.21.5  
-- tqdm==4.66.5 
+- tqdm==4.66.5
+- nflwos == 0.14
 
 All packages can be installed using the provided `requirements.txt` within a conda environment.
