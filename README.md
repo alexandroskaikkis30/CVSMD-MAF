@@ -21,5 +21,7 @@ Main dependencies:
 - numpy==1.21.5  
 - tqdm==4.66.5
 - nflows == 0.14
+- pandas==1.3.5
+- numpy==1.21.5
 
 All packages can be installed using the provided `requirements.txt` within a conda environment.
