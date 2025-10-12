@@ -12,4 +12,13 @@ To better capture and generate rare conformational states, different architectur
 After evaluating the models based on validation and training loss, Model A, which was conditioned on force only, achieved the best validation loss. During generation, it displayed greater stochasticity, producing a wider range of molecular extensions at comparable force values, including higher extensions at lower forces, a pattern that was not present in the training data. In contrast, Model D, which incorporated additional layers and conditioning features, showed the worst validation loss but generated samples in a more controlled mannerand with higher structural accuracy compared to the other models. These results suggest that conditioning on fewer features allows greater generative diversity, while additional conditioning constrains variability, leads to more controlled generation, and may increase the risk of overfitting given the limited size of the available dataset.
 
 ## Requirements
-To reproduce the results, install the required dependencies: ```bash pip install -r requirements.txt
+The project was developed and tested in a **conda environment (Miniconda3)** with **Python 3.7** on a Linux-based HPC cluster.
+
+Main dependencies:
+- torch==1.13.1  
+- torchmd==1.0.2  
+- moleculekit==1.3.4  
+- numpy==1.21.5  
+- tqdm==4.66.5 
+
+All packages can be installed using the provided `requirements.txt` within a conda environment.
