@@ -13,6 +13,7 @@ After evaluating the models based on validation and training loss, Model A, whic
 
 # Results 
 
+The molecular extension profile suggests that the model can sample conformations reaching higher extensions at lower forces, indicating improved exploration of the conformational space. It also demonstrates the model’s ability to generate novel samples distinct from those in the reference dataset.
 
 
 
