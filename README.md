@@ -48,8 +48,6 @@ The conformations below illustrate a local structural transition between two MD 
 ├── README.md                                  # Project overview and documentation
 └── requirements.txt                           # Python dependencies for environment setup
 
-
-
 ## Requirements
 The project was developed and tested in a **conda environment (Miniconda3)** with **Python 3.7** on a Linux-based HPC cluster.
 
