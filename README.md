@@ -15,6 +15,7 @@ After evaluating the models based on validation and training loss, Model A, whic
 
 <img width="1062" height="733" alt="image" src="https://github.com/user-attachments/assets/6fdd88b8-0084-43a8-8cb7-e346a7198d4e" />
 
+<img width="1121" height="514" alt="image" src="https://github.com/user-attachments/assets/a1c7932f-ae65-49c1-a6b6-b5698aa36389" />
  
 ## Repository Structure
 .
