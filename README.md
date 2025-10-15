@@ -11,6 +11,11 @@ To better capture and generate rare conformational states, different architectur
 
 After evaluating the models based on validation and training loss, Model A, which was conditioned on force only, achieved the best validation loss. During generation, it displayed greater stochasticity, producing a wider range of molecular extensions at comparable force values, including higher extensions at lower forces, a pattern that was not present in the training data. In contrast, Model D, which incorporated additional layers and conditioning features, showed the worst validation loss but generated samples in a more controlled mannerand with higher structural accuracy compared to the other models. These results suggest that conditioning on fewer features allows greater generative diversity, while additional conditioning constrains variability, leads to more controlled generation, and may increase the risk of overfitting given the limited size of the available dataset.
 
+# Outcomes 
+
+<img width="1062" height="733" alt="image" src="https://github.com/user-attachments/assets/6fdd88b8-0084-43a8-8cb7-e346a7198d4e" />
+
+ 
 ## Repository Structure
 .
 ├──            
