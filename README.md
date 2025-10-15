@@ -13,7 +13,7 @@ After evaluating the models based on validation and training loss, Model A, whic
 
 # Results 
 
-<img width="1121" height="514" alt="image" src="https://github.com/user-attachments/assets/a1c7932f-ae65-49c1-a6b6-b5698aa36389" />
+<img width="925" height="607" alt="image" src="https://github.com/user-attachments/assets/6942fad3-f8ab-45a2-bfd0-a2c351a3ba8f" />
 
 
 
