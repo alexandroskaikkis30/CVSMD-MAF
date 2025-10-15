@@ -31,7 +31,7 @@ The conformations below illustrate a local structural transition between two MD 
 ## Repository Structure
 
 ├── outputs/                                   # Generated data, trajectories, and conformations
-│   ├── 7_68_conformations/                    # PDB conformations from the CV-SMD simulation 
+│   ├── 7_68_conformations/                    # PDB conformations from the CV-SMD simulation
 │   │                                          # at a pulling velocity of 7.68 Å/ns, up to 18.2 ns
 │   ├── 7_68.csv                               # Log file monitoring the progress of the same simulation
 │   ├── 7_68.npy                               # NumPy array containing trajectory data from the same simulation
@@ -47,6 +47,7 @@ The conformations below illustrate a local structural transition between two MD 
 ├── LICENSE                                    # License information
 ├── README.md                                  # Project overview and documentation
 └── requirements.txt                           # Python dependencies for environment setup
+
 
 
 ## Requirements
