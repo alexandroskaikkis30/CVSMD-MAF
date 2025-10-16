@@ -32,6 +32,7 @@ The conformations below illustrate a local structural transition between two MD 
 
 
 ```text
+CV-SMD/MAF
 ├── outputs/                                   # Generated data, trajectories, and conformations
 │   ├── 7_68_conformations/                    # Conformations observed during the CV-SMD simulation, saved as PDB files
 │   │                                          # at a pulling velocity of 7.68 Å/ns, up to 18.2 ns
