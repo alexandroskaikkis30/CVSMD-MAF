@@ -12,7 +12,6 @@ To better capture and generate rare conformational states, different architectur
 After evaluating the models based on validation and training loss, Model A, which was conditioned on force only, achieved the best validation loss. During generation, it displayed greater stochasticity, producing a wider range of molecular extensions at comparable force values, including higher extensions at lower forces, a pattern that was not present in the training data. In contrast, Model D, which incorporated additional layers and conditioning features, showed the worst validation loss but generated samples in a more controlled mannerand with higher structural accuracy compared to the other models. These results suggest that conditioning on fewer features allows greater generative diversity, while additional conditioning constrains variability, leads to more controlled generation, and may increase the risk of overfitting given the limited size of the available dataset.
 
 # Results 
-
 The molecular extension profile shown below illustrates that Model A can sample conformations reaching higher extensions at lower forces, indicating enhanced exploration of the conformational space. It also highlights the model’s ability to generate novel samples distinct from those observed in the reference dataset.
 
 
@@ -67,3 +66,10 @@ Main dependencies:
 - pandas==1.3.5
 
 All packages can be installed using the provided `requirements.txt` within a conda environment.
+
+# References
+Bustamante, C., Alexander, L., Maciuba, K., & Kaiser, C. M. (2020). Single-Molecule Studies of Protein Folding with Optical Tweezers. Annual Review of Biochemistry, 89(1), 443–470. https://doi.org/10.1146/annurev-biochem-013118-111442
+
+Doerr, S., Majewski, M., Pérez, A., Krämer, A., Clementi, C., Noe, F., Giorgino, T., & De Fabritiis, G. (2021). TorchMD: a deep learning framework for molecular simulations. Journal of Chemical Theory and Computation, 17(4), 2355–2363. https://doi.org/10.1021/acs.jctc.0c01343
+
+
