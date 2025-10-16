@@ -67,7 +67,7 @@ Main dependencies:
 
 All packages can be installed using the provided `requirements.txt` within a conda environment.
 
-# References
+## References
 Bustamante, C., Alexander, L., Maciuba, K., & Kaiser, C. M. (2020). Single-Molecule Studies of Protein Folding with Optical Tweezers. Annual Review of Biochemistry, 89(1), 443–470. https://doi.org/10.1146/annurev-biochem-013118-111442
 
 Doerr, S., Majewski, M., Pérez, A., Krämer, A., Clementi, C., Noe, F., Giorgino, T., & De Fabritiis, G. (2021). TorchMD: a deep learning framework for molecular simulations. Journal of Chemical Theory and Computation, 17(4), 2355–2363. https://doi.org/10.1021/acs.jctc.0c01343
