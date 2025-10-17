@@ -16,7 +16,7 @@ The molecular extension profile shown below illustrates that Model A can sample 
 
 
 
-<img width="725" height="657" alt="image" src="https://github.com/user-attachments/assets/6942fad3-f8ab-45a2-bfd0-a2c351a3ba8f" />
+<img width="625" height="557" alt="image" src="https://github.com/user-attachments/assets/6942fad3-f8ab-45a2-bfd0-a2c351a3ba8f" />
 
 
 
